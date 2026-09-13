@@ -51,7 +51,7 @@ SheetSQL: Bi-Directional SQL Grid
 - AI & Machine Learning Fundamentals
 
 ## 📫 Connect With Me
-
+- Gmail: kumarvivek123456798@gmail.com
 - GitHub: https://github.com/vivekcodes-tech
 - LinkedIn: www.linkedin.com/in/vivek-kumar-2b9869395
 
