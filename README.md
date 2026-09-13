@@ -53,6 +53,6 @@ SheetSQL: Bi-Directional SQL Grid
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/vivekcodes-tech
-- LinkedIn: linkedin.com/in/vivek-kumar-2b9869395
+- LinkedIn: www.linkedin.com/in/vivek-kumar-2b9869395
 
 ⭐ Always learning, building, and improving.
